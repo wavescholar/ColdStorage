@@ -1,0 +1,2 @@
+G:\KL\klAWS\LogViewer\$(SolutionDir)\bin\Live Log Viewer.exe
+G:\KL\klAWS\LogViewer\$(SolutionDir)\bin\Live Log Viewer.pdb

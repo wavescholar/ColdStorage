@@ -1,0 +1,8 @@
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\zf\bin\Debug\zf.exe
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\zf\bin\Debug\zf.pdb
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\zf\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\zf\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\zf\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\zf\obj\Debug\ResolveAssemblyReference.cache
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\zf\obj\Debug\zf.exe
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\zf\obj\Debug\zf.pdb

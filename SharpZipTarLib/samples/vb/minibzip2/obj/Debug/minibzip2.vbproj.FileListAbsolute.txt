@@ -1,0 +1,4 @@
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\minibzip2\obj\Debug\ResolveAssemblyReference.cache
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\minibzip2\obj\Debug\NewProject.MainForm.resources
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\minibzip2\obj\Debug\ResGen.read.1.tlog
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\minibzip2\obj\Debug\ResGen.write.1.tlog

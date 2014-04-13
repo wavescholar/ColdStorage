@@ -1,0 +1,5 @@
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\bin\sz.exe
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\bin\sz.pdb
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\sz\obj\Debug\ResolveAssemblyReference.cache
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\sz\obj\Debug\sz.exe
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\cs\sz\obj\Debug\sz.pdb

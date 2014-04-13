@@ -1,0 +1,17 @@
+[Header]
+2011-11-16 09:46:25,716 [8488] INFO  ConsoleApp.LoggingExample [(null)] <(null)> - Application [ConsoleApp] Start
+2011-11-16 09:46:25,755 [8488] DEBUG ConsoleApp.LoggingExample [(null)] <(null)> - This is a debug message
+2011-11-16 09:46:25,771 [8488] ERROR ConsoleApp.LoggingExample [(null)] <(null)> - Exception thrown from method Bar
+System.ArithmeticException: Failed in Goo. Calling Foo. Inner Exception provided ---> System.Exception: This is an Exception
+   at ConsoleApp.LoggingExample.Foo() in C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\LoggingExample.cs:line 97
+   at ConsoleApp.LoggingExample.Goo() in C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\LoggingExample.cs:line 104
+   --- End of inner exception stack trace ---
+   at ConsoleApp.LoggingExample.Goo() in C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\LoggingExample.cs:line 110
+   at ConsoleApp.LoggingExample.Bar() in C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\LoggingExample.cs:line 92
+   at ConsoleApp.LoggingExample.Main(String[] args) in C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\LoggingExample.cs:line 58
+2011-11-16 09:46:25,778 [8488] ERROR ConsoleApp.LoggingExample [(null)] <(null)> - Hey this is an error!
+2011-11-16 09:46:25,784 [8488] WARN  ConsoleApp.LoggingExample [NDC_Message] <(null)> - This should have an NDC message
+2011-11-16 09:46:25,786 [8488] WARN  ConsoleApp.LoggingExample [NDC_Message] <auth-none> - This should have an MDC message for the key 'auth'
+2011-11-16 09:46:25,789 [8488] WARN  ConsoleApp.LoggingExample [(null)] <auth-none> - See the NDC has been popped of! The MDC 'auth' key is still with us.
+2011-11-16 09:46:25,792 [8488] INFO  ConsoleApp.LoggingExample [(null)] <auth-none> - Application [ConsoleApp] End
+[Footer]

@@ -1,0 +1,11 @@
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\bin\viewzipfile.exe
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\bin\viewzipfile.pdb
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\bin\ICSharpCode.SharpZipLib.dll
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\bin\ICSharpCode.SharpZipLib.pdb
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\bin\ICSharpCode.SharpZipLib.xml
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\obj\Debug\ResolveAssemblyReference.cache
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\obj\Debug\NewProject.MainForm.resources
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\obj\Debug\ResGen.read.1.tlog
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\obj\Debug\ResGen.write.1.tlog
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\obj\Debug\viewzipfile.exe
+D:\DPImage\AwsGlacier\SharpZipTarLib\samples\vb\viewzipfile\obj\Debug\viewzipfile.pdb

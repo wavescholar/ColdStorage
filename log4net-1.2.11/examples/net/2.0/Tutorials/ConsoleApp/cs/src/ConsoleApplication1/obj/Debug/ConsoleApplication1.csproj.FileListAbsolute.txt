@@ -1,0 +1,8 @@
+C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\bin\Debug\log4net.dll
+C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\bin\Debug\log4net.xml
+C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\temp\Log4Net_1.2.11\log4net-1.2.11\examples\net\2.0\Tutorials\ConsoleApp\cs\src\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

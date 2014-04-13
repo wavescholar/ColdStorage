@@ -1,0 +1,20 @@
+G:\KL\klAWS\LogViewer\obj\Debug\ResolveAssemblyReference.cache
+G:\KL\klAWS\LogViewer\obj\Debug\LiveLogViewer.MainForm.resources
+G:\KL\klAWS\LogViewer\obj\Debug\LiveLogViewer.Properties.Resources.resources
+G:\KL\klAWS\LogViewer\obj\Debug\GenerateResource.read.1.tlog
+G:\KL\klAWS\LogViewer\obj\Debug\GenerateResource.write.1.tlog
+G:\KL\klAWS\LogViewer\obj\Debug\Live Log Viewer.exe
+G:\KL\klAWS\LogViewer\obj\Debug\Live Log Viewer.pdb
+G:\KL\klAWS\LogViewer\bin\Live Log Viewer.exe
+G:\KL\klAWS\LogViewer\bin\Live Log Viewer.pdb
+G:\KL\klAWS\bin\x64\Live Log Viewer.exe
+G:\KL\klAWS\bin\x64\Live Log Viewer.pdb
+D:\klAWS\bin\x64\Live Log Viewer.exe
+D:\klAWS\bin\x64\Live Log Viewer.pdb
+D:\klAWS\LogViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\klAWS\LogViewer\obj\Debug\LiveLogViewer.MainForm.resources
+D:\klAWS\LogViewer\obj\Debug\LiveLogViewer.Properties.Resources.resources
+D:\klAWS\LogViewer\obj\Debug\GenerateResource.read.1.tlog
+D:\klAWS\LogViewer\obj\Debug\GenerateResource.write.1.tlog
+D:\klAWS\LogViewer\obj\Debug\Live Log Viewer.exe
+D:\klAWS\LogViewer\obj\Debug\Live Log Viewer.pdb

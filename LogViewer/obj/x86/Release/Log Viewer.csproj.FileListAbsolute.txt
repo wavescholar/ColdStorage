@@ -1,0 +1,8 @@
+D:\DPImage\x64\Release\Live Log Viewer.exe
+D:\DPImage\LogViewer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DPImage\LogViewer\obj\x86\Release\LiveLogViewer.MainForm.resources
+D:\DPImage\LogViewer\obj\x86\Release\LiveLogViewer.Properties.Resources.resources
+D:\DPImage\LogViewer\obj\x86\Release\GenerateResource.read.1.tlog
+D:\DPImage\LogViewer\obj\x86\Release\GenerateResource.write.1.tlog
+D:\DPImage\LogViewer\obj\x86\Release\Live Log Viewer.exe
+G:\KL\DPImage\LogViewer\obj\x86\Release\Live Log Viewer.exe

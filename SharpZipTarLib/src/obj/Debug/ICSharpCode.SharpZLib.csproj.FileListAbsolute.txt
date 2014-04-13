@@ -1,0 +1,6 @@
+D:\DPImage\AwsGlacier\SharpZipTarLib\bin\ICSharpCode.SharpZipLib.xml
+D:\DPImage\AwsGlacier\SharpZipTarLib\bin\ICSharpCode.SharpZipLib.dll
+D:\DPImage\AwsGlacier\SharpZipTarLib\bin\ICSharpCode.SharpZipLib.pdb
+D:\DPImage\AwsGlacier\SharpZipTarLib\src\obj\Debug\ResolveAssemblyReference.cache
+D:\DPImage\AwsGlacier\SharpZipTarLib\src\obj\Debug\ICSharpCode.SharpZipLib.dll
+D:\DPImage\AwsGlacier\SharpZipTarLib\src\obj\Debug\ICSharpCode.SharpZipLib.pdb
